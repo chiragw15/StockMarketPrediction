@@ -1,0 +1,9 @@
+numpy
+pandas
+vaderSentiment
+requests
+keras
+tensorflow
+gensim
+paramiko
+sklearn
